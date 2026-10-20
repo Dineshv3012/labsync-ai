@@ -1,0 +1,6 @@
+{
+  "name": "LabSync AI",
+  "description": "AI-Powered Smart Computer Laboratory Management and Real-Time Collaboration Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
